@@ -74,3 +74,13 @@ footer
     line-height: normal;
     text-align: center;
 }
+
+.leyer-1
+{
+    position: absolute;
+}
+
+.justify-content-between
+{
+    margin-top: 10px;
+}
